@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+dronestuff-env39/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log and temporary files
+*.log
+*.tlog
+*.tlog.raw
